@@ -13,9 +13,6 @@
     <string name="bmi_result_format" formatted="false">ИМТ: %.1f\n%s</string>
     <string name="some_wrong">Что-то не так!</string>
 
-    <string name="regex_height">((1[3-9]\\d)|(2[0-4]\\d))(\\.\\d{1})?</string>
-    <string name="regex_weight">(([4-9]\\d)|(1\\d{2})|(2[0-4]\\d))(\\.\\d{1})?</string>
-
     <string name="some_et_empty">Рост или Вес не введены</string>
     <string name="weight_wrong">Вес должен быть от 40.0 до 249.9</string>
     <string name="height_wrong">Рост должен быть от 130.0 до 249.9</string>
