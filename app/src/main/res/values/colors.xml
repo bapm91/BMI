@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#bababa</color>
+    <color name="tabs">#9198a3</color>
+    <color name="hints">#d0ddf2</color>
+    <color name="tabs_screen">#accbf9</color>
+    <color name="result">#434343</color>
+    <color name="gradient">#5cb3ff</color>
+
+    <color name="blue_light">#306afc</color>
+    <color name="blue">#1e53d7</color>
+    <color name="blue_dark">#1a367e</color>
+    <color name="red_dark">#7e1a1a</color>
+    <color name="white_dark">#bababa</color>
+</resources>
