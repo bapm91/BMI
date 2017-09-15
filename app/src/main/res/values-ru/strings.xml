@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ИМТ</string>
+
+    <string name="tab_bmi_man">Мужчина</string>
+    <string name="tab_bmi_woman">Женщина</string>
+
+    <string name="height">Рост</string>
+    <string name="weight">Вес</string>
+    <string name="rotate">Посчитать</string>
+
+    <string name="result_format" formatted="false">В: %.1f\nР: %.1f\n %s</string>
+    <string name="bmi_result_format" formatted="false">ИМТ: %.1f\n%s</string>
+    <string name="some_wrong">Что-то не так!</string>
+
+    <string name="regex_height">((1[3-9]\\d)|(2[0-4]\\d))(\\.\\d{1})?</string>
+    <string name="regex_weight">(([4-9]\\d)|(1\\d{2})|(2[0-4]\\d))(\\.\\d{1})?</string>
+
+    <string name="some_et_empty">Рост или Вес не введены</string>
+    <string name="weight_wrong">Вес должен быть от 40.0 до 249.9</string>
+    <string name="height_wrong">Рост должен быть от 130.0 до 249.9</string>
+
+    <string name="underweight3">Очень сильный недовес</string>
+    <string name="underweight2">Сильный недовес</string>
+    <string name="underweight1">Недовес</string>
+    <string name="normal">Норма (идеальный вес)</string>
+    <string name="overweight">Избыточный вес</string>
+    <string name="obese1">Ожирение I степени (умеренное ожирение)</string>
+    <string name="obese2">Ожирение II степени (тяжелое ожирение)</string>
+    <string name="obese3">Ожирение III степени (очень сильное ожирение)</string>
+</resources>
